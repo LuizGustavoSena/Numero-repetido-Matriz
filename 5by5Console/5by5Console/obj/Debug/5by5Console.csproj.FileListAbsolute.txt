@@ -1,0 +1,7 @@
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\bin\Debug\5by5Console.exe.config
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\bin\Debug\5by5Console.exe
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\bin\Debug\5by5Console.pdb
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\obj\Debug\5by5Console.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\obj\Debug\5by5Console.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\obj\Debug\5by5Console.exe
+C:\Users\Luiz Sena\source\repos\5by5Console\5by5Console\obj\Debug\5by5Console.pdb
